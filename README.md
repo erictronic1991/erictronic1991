@@ -1,4 +1,6 @@
-👋 Hi, I’m Eric Relleve
+👋 Hi, 
+
+I’m Eric Relleve
 🚀 Cloud • DevSecOps • AI Automation • Backend Engineering
 
 I'm a systems thinker who enjoys connecting cloud infrastructure, security, automation, and AI to build real, scalable solutions.
