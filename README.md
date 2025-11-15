@@ -86,3 +86,5 @@ Automation: n8n, Make (Integromat), Zapier, GHL
 Observability: Splunk, Qualys, basic SIEM workflows
 Analytics: Tableau, Looker Studio
 OS: Linux, Bash, Windows Admin
+
+
