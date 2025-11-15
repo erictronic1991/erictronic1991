@@ -1,6 +1,5 @@
-👋 Hi, 
+👋 Hi, I’m Eric Relleve 
 
-I’m Eric Relleve
 🚀 Cloud • DevSecOps • AI Automation • Backend Engineering
 
 I'm a systems thinker who enjoys connecting cloud infrastructure, security, automation, and AI to build real, scalable solutions.
@@ -8,7 +7,7 @@ My background in IT operations, workflow automation, compliance, and cloud engin
 
 I’m currently building Tanggol-AI — an open, AI-powered legal information assistant for Filipinos — as my capstone project to demonstrate cloud, AI, security, and DevOps capabilities end-to-end.
 
-👀 I’m interested in…
+👀 I’m interested in
 
 Cloud Security (AWS + DevSecOps)
 
@@ -24,17 +23,17 @@ SOC-aligned log analysis & threat detection
 
 Building AI assistants that solve real problems
 
-🌱 I’m currently learning …
+🌱 I’m currently learning
 
-FastAPI (backend microservices)
+FastAPI for backend microservices
 
-Kubernetes fundamentals → CKA prep
+Kubernetes fundamentals → CKA path
 
 Terraform for scalable IaC
 
-AWS SysOps + CloudOps
+AWS SysOps / CloudOps
 
-DevSecOps (Nextwork AWS labs: IAM, KMS, GuardDuty, Secrets Manager)
+DevSecOps (IAM, KMS, GuardDuty, Secrets Manager)
 
 AI microservices (RAG, embeddings, vector stores)
 
@@ -44,47 +43,45 @@ Build automated workflows & AI agents
 
 Develop REST APIs and backend services
 
-Design secure cloud architectures (IAM, least privilege, secrets)
+Design secure cloud architectures (IAM, least privilege)
 
-Deploy apps using CI/CD pipelines
+Deploy apps with CI/CD pipelines
 
 Quantify system behavior using analytics and logging
 
-Integrate cloud + automation + AI into business ecosystems
+Integrate cloud + automation + AI into real business ecosystems
 
-💞️ I’m looking to collaborate on …
+💞️ I’m looking to collaborate on
 
-AI assistants (RAG, automation, knowledge systems)
+AI assistants (RAG systems, automation, knowledge tools)
 
-Cloud security + DevSecOps tooling
+Cloud security & DevSecOps projects
 
-Open-source projects related to:
+Kubernetes and infrastructure automation
 
-API development
+Open-source API or backend projects
 
-Threat detection
+📫 How to reach me
 
-Kubernetes
+LinkedIn: https://www.linkedin.com/in/cyberxart
 
-Workflow automation
+Email: relleve18eric@gmail.com
 
-📫 How to reach me …
-
-LinkedIn: linkedin.com/in/your-profile-here
-
-GitHub: github.com/erictronic1991
-
-Email: your-email-here
 
 🛠️ Tech Stack
 
-Cloud & Security: AWS, IAM, KMS, GuardDuty, Secrets Manager, CloudTrail
+Cloud & Security: AWS, IAM, KMS, GuardDuty, CloudTrail, Secrets Manager
+
 DevOps & Infra: Terraform, Docker, Kubernetes, GitHub Actions
+
 Backend: Python, FastAPI, Node.js
-AI: OpenAI, Bedrock, LangChain, Vector DBs (Qdrant, Pinecone)
+
+AI: OpenAI, Bedrock, LangChain, Qdrant/Pinecone
+
 Automation: n8n, Make (Integromat), Zapier, GHL
-Observability: Splunk, Qualys, basic SIEM workflows
+
+Observability: Splunk, Qualys
+
 Analytics: Tableau, Looker Studio
-OS: Linux, Bash, Windows Admin
 
-
+Systems: Linux, Bash, Windows Admin
